@@ -1,0 +1,11 @@
+{
+  "name": "css",
+  "description": "xxx",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x",
+    "less-middleware": "^2.2.0",
+    "node-sass-middleware": "^0.10.0",
+    "stylus": "^0.54.5"
+  }
+}

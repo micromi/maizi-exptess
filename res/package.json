@@ -1,0 +1,11 @@
+{
+  "name": "response",
+  "description": "xxx",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "4.x",
+    "express-handlebars": "^3.0.0"
+  }
+}
